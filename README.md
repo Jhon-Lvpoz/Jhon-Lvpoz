@@ -8,7 +8,7 @@
   - [VulcanEagle (OpenVAS Python Integration Vulnerability scanner)](https://github.com/Jhon-Lvpoz/VulcanEagle)
 
 - <b>Flutter</b>
-  - 🌱 I’m currently learning Flutter and I hope soon to publish a CRM/POS software under the GPL 3 license.
+  - 🧑‍🎓 I’m currently learning Flutter and I hope soon to publish a CRM/POS software under the GPL 3 license.
 
 <!--
 **Jhon-Lvpoz/Jhon-Lvpoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
