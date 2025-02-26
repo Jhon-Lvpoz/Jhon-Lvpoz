@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jhon López! <br/><a href="https://github.com/Jhon-Lvpoz">Software Developer</a>, <a href="https://www.linkedin.com/in/jhon-lvpoz-ab0729174/">Computer Systems Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Recent Personal Software Development Projects:</h2>
 
 
 - <b>Python</b>
